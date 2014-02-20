@@ -1,0 +1,2 @@
+- icestats.php: used to display the count of current listeners on the page
+- icestats.py: a re-write of icestats.php which logs the number to a file. to be run as a cron job. (WIP)

@@ -1,0 +1,3 @@
+- curl-archive.sh: Gets data from url into a given file for a given time, using curl
+- wget-test.sh: gets data from url into a given file for a given time, using wget. However, the method used for timing will not work well for overlapping archive jobs.
+- wget-test-cron.sh: gets data from url into a given file for a given time, uwing wget. (deprecated)
